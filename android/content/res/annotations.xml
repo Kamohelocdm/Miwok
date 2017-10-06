@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='android.content.res.Resources void getValue(int, android.util.TypedValue, boolean) 0'>
+        <annotation name='android.support.annotation.Nullable' />
+    </item>
+</root>
